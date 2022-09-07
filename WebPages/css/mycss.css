@@ -1,0 +1,36 @@
+h1{
+    color: wheat;
+}
+h2{
+    color: violet;
+}
+.h2{
+    color: aqua;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+aside{
+    float: rihgt;
+    width: 320px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    background-color:#d0d0d0;
+    padding: 5px;
+    border: 1px solid #a8a8a8;
+    color: #00b945;
+}
+body{
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.2em;
+color: #040404;
+background-color: gray;
+padding: 10px;
+padding-top: 10px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
